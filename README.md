@@ -21,4 +21,4 @@ Automated swash front tracing software for timestacks used in coastal research. 
 - https://drive.google.com/drive/folders/10k3cSnvU_n3B2ee7BpJC8leSCIr-sS0b?usp=sharing - This google drive folder contains the training data. It is over 3 GB so not stored in the github repository.
 - https://docs.google.com/spreadsheets/d/13iXW-CMyzlAxPTJHTx34q0H_k5yIES63VaTQNDhSgPM/edit?usp=sharing - This google sheet contains the training results of a lot of the earlier model versions with hyperparameter trial and error, as well as other results.
 
-NOTE: The swash front tracing model v0 sometimes struggles to trace runup maximum and minimum regions. It is important that you visually check the traced timestack image for accuracy before using the results in the output data csv file.
+NOTE: The swash front tracing model v0 occasionally struggles to trace runup maximum and minimum regions. It is important that you visually check the traced timestack image for accuracy before using the results in the output data csv file.
