@@ -1,6 +1,8 @@
 # SwashTracer
 Automated swash front tracing software for timestacks used in coastal research. Work detailed in Michael Thompson's PhD Thesis. 
 
+![annotated_timestack_readme](https://github.com/mikeyt120/SwashTracer/blob/main/annotated_timestack_readme.png)
+
 # How to use
 1. Open the SwashTracer_tool.ipynb in jupyter notebooks (I find anaconda distribution convenient).
 2. Copy the Timestack_Shoreline_Xc_v0.model/ folder and your chosen timestack image file into your working directory. You can use the example_timestack.png which was created by Dr. Hannah Power. If you want to train and use a different model, use the SwashTracer_trainer.ipynb file.
