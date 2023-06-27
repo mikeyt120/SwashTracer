@@ -1,5 +1,5 @@
 # SwashTracer
-Automated swash front tracing software for timestacks used in coastal research. Work detailed in Michael Thompson's PhD Thesis. 
+Automated swash front tracing software for timestacks used in coastal research. Work detailed in Chapter 9 of the PhD Thesis of Michael Thompson. 
 
 ![annotated_timestack_readme](https://github.com/mikeyt120/SwashTracer/blob/main/annotated_timestack_readme.png)
 
@@ -17,6 +17,7 @@ Automated swash front tracing software for timestacks used in coastal research. 
 - 20101109084810_07_25ppm_trim.png - Portion of a timestack used as an example for the SwashTracer_labeller.ipynb
 - test_timestacks/ - This folder contains the timestack images and manually labelled point files for evaluating the NRMSE metrics described in the thesis.
 - Timestack_Shoreline_Xc_v0.model/ - This folder contains the CNN model described in the thesis. It is the same model as v83 in the results google sheet.
+- table_2_results/ - All the results from Table 2 in the associated thesis chapter.
 - https://drive.google.com/drive/folders/10k3cSnvU_n3B2ee7BpJC8leSCIr-sS0b?usp=sharing - This google drive folder contains the training data. It is over 3 GB so not stored in the github repository.
 - https://docs.google.com/spreadsheets/d/13iXW-CMyzlAxPTJHTx34q0H_k5yIES63VaTQNDhSgPM/edit?usp=sharing - This google sheet contains the training results of a lot of the earlier model versions with hyperparameter trial and error, as well as other results.
 
